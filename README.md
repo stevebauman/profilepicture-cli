@@ -21,7 +21,7 @@ See [`DownloadCommand.php`](https://github.com/stevebauman/profilepicture-cli/bl
 
 ![Screenshot 2022-12-01 at 11 50 52 AM](https://user-images.githubusercontent.com/6421846/205112339-3d452858-dac1-425b-ba95-0cea67a8065f.png)
 
-5. Navigate to the photos view of the person you've added, and capture the photos response and save it into a file named `images.json` inside the cloned repository root directory (the request will be named a numeric ID):
+5. Navigate to the photos view of the person you've added, and capture the `images` response, saving it into a file named `images.json` inside the cloned repository root directory (the request will be named a numeric ID):
 
 ![Screenshot 2022-12-01 at 11 55 09 AM](https://user-images.githubusercontent.com/6421846/205112981-e72ea1f9-88ee-4806-80a3-31bd3e82b21e.png)
 
