@@ -1,6 +1,6 @@
 # ProfilePicture AI - CLI (Unofficial)
 
-Download all of your 4k images from ProfilePicture AI automatically using a PHP CLI.
+Download all of your generated 4k images from ProfilePicture AI website automatically using a PHP CLI.
 
 ## Requirements
 
