@@ -6,6 +6,10 @@ Download all of your 4k images from ProfilePicture AI automatically using a PHP 
 
 - PHP >= 8.0
 
+## How it Works
+
+See [`DownloadCommand.php`](https://github.com/stevebauman/profilepicture-cli/blob/master/app/Commands/DownloadCommand.php).
+
 ## Usage
 
 ### Prepare Download Process:
